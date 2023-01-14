@@ -11,3 +11,6 @@ npx hardhat node
 ### ローカルにデプロイ
 
 npx hardhat run scripts/gov.js
+
+### 解説記事
+https://zenn.dev/lowzzy/articles/5978c87df5873c
